@@ -1,4 +1,4 @@
-# OmniStack Week - Instagram
+# Instagram
 
 **Data:** Segunda semana de Junho/2019
 
