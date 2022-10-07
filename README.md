@@ -6,3 +6,5 @@
 (com descrição, local e hashtags), visualize em tempo real e curta as fotos já postadas.
 
 **Tecnologias:** HTML5, CSS3 , REACT.js
+
+
